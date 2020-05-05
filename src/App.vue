@@ -14,7 +14,7 @@
     width="180" height="190" 
     overlay="hexagon_feather" />
    <cld-transformation 
-   y="-80" x="-50" 
+   y="-80" x="-150" 
    effect="cut_out" flags="layer_apply" />
 
 <!-- face -->
@@ -29,7 +29,7 @@
     
     <cld-transformation flags="layer_apply" 
     width="200" radius="max" 
-    gravity="center" y="-110" x="-70" crop="scale" />
+    gravity="center" y="-110" x="-170" crop="scale" />
 
  <!-- <cld-transformation underlay="sample.jpg" effect="negate" /> -->
 

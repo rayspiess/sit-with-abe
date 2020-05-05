@@ -76,7 +76,7 @@ export default {
       file: null,
       filesSelected: 0,
       cloudName: "uw-madison-doit",
-      preset: "sit-with-abe",
+      preset: "vue-uploader",
       tags: "browser-upload",
       progress: 0,
       showProgress: false,
